@@ -255,6 +255,8 @@ GEM
       rainbow (>= 2.2.2, < 4.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 1.6)
+    rubocop-performance (1.2.0)
+      rubocop (>= 0.68.0)
     ruby-progressbar (1.10.0)
     rubyntlm (0.6.2)
     safe_yaml (1.0.4)
@@ -372,6 +374,7 @@ DEPENDENCIES
   rolify
   rspec-rails (~> 3.7)
   rubocop
+  rubocop-performance
   sass-rails (~> 5.0)
   shoulda-matchers (~> 3.1)
   spring
