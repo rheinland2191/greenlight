@@ -29,8 +29,8 @@ vendor/bundle
 .byebug_history
 
 # Ignore environment configuration.
-.env
-env
+#.env
+#env
 
 # IDEs
 .idea
